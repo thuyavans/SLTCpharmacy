@@ -23,7 +23,7 @@
 					<div class="card-footer bg-dark">
 						<div class="row">
 							<div class="col-md-12">
-								<button class="btn btn-sm btn-success col-sm-3 offset-md-3"> Save</button>
+								<button class="btn btn-sm btn-success col-sm-3 offset-md-3"> Save </button>
 								<button class="btn btn-sm btn-secondary col-sm-3" type="button" onclick="$('#manage-category').get(0).reset()"> Cancel</button>
 							</div>
 						</div>
